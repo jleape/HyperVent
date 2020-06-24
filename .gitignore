@@ -1,3 +1,11 @@
+anim/
+anim-1/
+cartogram_geopandas/
+trip_data/
+
+HyperVent.ipynb
+main.R
+
 # History files
 .Rhistory
 .Rapp.history
